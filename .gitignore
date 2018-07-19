@@ -1,0 +1,19 @@
+# packing lists and instrument protocl #
+
+*.docx
+*.xlsx
+
+
+# virtual dub dependency #
+
+*.zip
+*.vdplugin
+
+# R project #
+
+*.user
+*.Rproj
+
+# The imageJ macro #
+
+*.ijm

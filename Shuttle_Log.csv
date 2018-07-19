@@ -1,0 +1,28 @@
+date,time,exp,fish,ID,catch_method,treatment,end_side,notes,status
+4/8/2015,day,1,Ballistidae,1,channel,left,control,seemed tired and swimming face down at the end and never crossed to dms side,x
+4/8/2015,day,2,Ballistidae,2,channel,left,dms,swimming a bit abnormally; possible exclusion,ok
+4/8/2015,day,3,Ballistidae,3,channel,left,dms,spazzing at end; possible exclusion,ok
+4/8/2015,day,4,Ballistidae,4,channel,left,center,behaved quite well,ok
+4/14/2015,day,5,Gobidae,5,light,left,control,seemed stressed and frantic; should exclude,x
+4/14/2015,day,6,Serranidae,6,light,left,control,messed up tubing so water low at end; consider excluding some time at end if behavior is odd in video,ok
+4/14/2015,day,7,Serranidae,6,light,left,center,try 2 with same fish and he stayed in middle whole time,x
+4/14/2015,day,8,Pomacentridae,7,light,left,control,most time spent in dms besides beginning,ok
+4/15/2014,day,9,Stegastes partitus,8,light,right,middle,jumped out of box at first and tension levers weren't down totally so low concentrations were likely,x
+4/15/2014,day,10,Stegastes partitus,9,light,right,dms,swimming behavior very strange (on side) at start; probably should exclude,x
+4/15/2014,day,11,Stegastes partitus,10,light,right,middle,looking unhealthy at the end; check video for behavior throughout,ok
+4/15/2014,day,12,Stegastes partitus,11,light,right,dms,looked good,ok
+4/16/2015,day,13,blenny,12,light,left,dms,looked great,ok
+4/16/2015,day,14,Stegastes partitus,13,light,left,dms,stressed at the beginning but looked good at the end,ok
+4/28/2015,day,15,Seahorse,14,channel_day,right,dms,not very active but clearly LOVED the dms intake valve,ok
+4/28/2015,day ,16,Mojarra,15,channel_day,right,control,not an ideal species for the shuttlebox; should exclude,x
+5/13/2015,day,17,Stegastes spp,16,light,left,dms,moved fairly erracticly at start and end; check video for behavior in isolation,ok
+5/13/2015,day,18,Stegastes spp,17,light,left,dms,looked good,ok
+5/13/2015,day,19,Stegastes partitus,18,light,right,middle,looked like he wanted to hang in the middle at start + messed up tubing so treatment on RIGHT not left as intended,ok
+5/13/2015,day,20,Stegastes spp,19,light,left,dms,seemed a little stressed at the start; check video behavior,ok
+5/13/2015,day,21,Stegastes spp,20,light,right,control,"stressed at the end, colors were off; check video behavior",ok
+5/13/2015,day,22,Stegastes spp,21,light,left,dms,water level was low at the end bc experiment ran long; shouldn't effect trial period behavior,ok
+5/14/2015,day,23,Stegastes spp,22,light,right,middle,very young; may not be comparable,ok
+5/14/2015,day,24,Stegastes partitus,23,light,right,dms,seemed larger and more pigmented than fellow in cohort,ok
+5/14/2015,day,25,sergeant major,24,light,right,dms,did not move the entire time I don’t think,x
+5/14/2015,day,26,blenny,25,light,right,control,"he had no pigment at the end; tracking ended early when he ""settled"" and lost pigment",ok
+5/14/2015,day,27,scarid,26,light,right,dms,didn't seem very active at all,x

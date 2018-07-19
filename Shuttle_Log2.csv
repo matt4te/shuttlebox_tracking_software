@@ -1,0 +1,13 @@
+date,time,exp,fish,ID,catch_method,treatment,end_side,notes,status
+8/14/2015,10:31,1,Stegastes partitus,1,light trap,right,x,"fish came from Emerald, blurry spot on camera so exclude from movement analysis ",ok
+8/14/2015,11:00,2,Stegastes partitus,2,light trap,left,x,fish came from Emerald,x - didn't cross sides
+8/14/2015,11:27,3,Stegastes partitus,3,light trap,left,x,fish came from Emerald,x - didn't cross sides
+8/14/2015,11:55,4,Stegastes variabilis,4,light trap,right,x,fish came from Emerald,ok
+8/14/2015,12:24,5,Stegastes diancaeus,5,light trap,right,x,"fish came from Emerald, settle in middle at end",ok
+8/14/2015,12:48,6,Chaetodontidae,6,light trap,left,x,fish came from Emerald,ok
+8/15/2015,4:23,7,Lutjanus griseus,7,light trap,left,x,fish came from Emerald,ok
+9/19/2015,12:10,8,Stegastes partitus,8,light trap,left,x,"fish came from Fowey Rocks, something went wrong with plumbing",x
+9/19/2015,12:40,9,Stegastes partitus,9,light trap,right,x,fish came from Fowey Rocks,ok
+9/19/2015,1:09,10,Stegastes partitus,10,light trap,right,x,fish came from Fowey Rocks,ok
+9/19/2015,1:39,11,Stegastes partitus,11,light trap,left,x,fish came from Fowey Rocks,ok
+9/19/2015,2:09,12,Stegastes partitus,12,light trap,left,x,fish came from Fowey Rocks,ok
